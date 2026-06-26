@@ -1,0 +1,11 @@
+PLUGIN_NON_LATIN_FONT_FOR_SBCLASSIC
+	DE	Nicht-lateinische Texte auf der Squeezebox Classic Familie darstellen
+	EN	Render non-latin text on the Squeezebox Classic family
+	FR	Rendre du texte non-latin sur la famille Squeezebox Classic
+	NL	Niet-Latijnse tekst weergeven op de Squeezebox Classic-familie
+
+PLUGIN_NON_LATIN_FONT_FOR_SBCLASSIC_DESC
+	DE	Die Go Noto Universal-Schriftart ermöglicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsfähigen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).
+	EN	The Go Noto Universal font allows you to render non-latin characters on the graphics capable ip3k based players (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).
+	FR	La police Go Noto Universal vous permet de rendre les caractères non-latins sur les lecteurs basés sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).
+	NL	Het Go Noto Universal lettertype stelt u in staat niet-Latijnse tekens weer te geven op grafisch capable ip3k-gebaseerde spelers (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).
