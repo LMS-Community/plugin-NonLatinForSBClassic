@@ -2,7 +2,7 @@
 <extensions>
   <plugins>
     <plugin name="NonLatinForSBClassic" version="1.0.0" maxTarget="*" minTarget="9.2">
-      <sha>33ead971f208f6449ae82dcae6077754471f86ff</sha>
+      <sha>aaa7fa97f6d1eeec20cd7be236a5750b858e1c9a</sha>
       <desc lang="EN">The Go Noto Universal font allows you to render non-latin characters on the graphics capable ip3k based players (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <desc lang="DE">Die Go Noto Universal-Schriftart ermöglicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsfähigen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <desc lang="FR">La police Go Noto Universal vous permet de rendre les caractères non-latins sur les lecteurs basés sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
