@@ -1,22 +1,8 @@
 package Plugins::NonLatinForSBClassic::Plugin;
 
 use strict;
-use Slim::Display::Lib::Fonts;
 
-sub initPlugin {
-	my $class = shift;
-
-	my $pluginDir = Slim::Utils::PluginManager->dataForPlugin($class)->{basedir};
-
-	eval {
-		opendir(my $dh, $pluginDir);
-		foreach my $file (grep(/\.ttf$/i,readdir($dh))) {
-			Slim::Display::Lib::Fonts::addFont($file);
-		}
-		closedir($dh);
-	};
-
-	Slim::Utils::Log::logError("Failed to register font: $@") if $@;
-}
+# Nothing to do here. We only need to exist.
+# The font handler will read fonts.conf to get the list of fonts the plugin provides.
 
 1;
