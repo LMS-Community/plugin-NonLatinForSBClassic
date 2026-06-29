@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <extensions>
   <plugins>
-    <plugin name="NonLatinForSBClassic" version="1.0.0" maxTarget="*" minTarget="9.2">
-      <sha>aaa7fa97f6d1eeec20cd7be236a5750b858e1c9a</sha>
+    <plugin name="NonLatinForSBClassic" version="1.1.0" maxTarget="*" minTarget="9.2">
+      <sha>92b1ab90a58373624c7ffb3c4fe43cf8a0238396</sha>
       <desc lang="EN">The Go Noto Universal font allows you to render non-latin characters on the graphics capable ip3k based players (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <desc lang="DE">Die Go Noto Universal-Schriftart ermöglicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsfähigen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <desc lang="FR">La police Go Noto Universal vous permet de rendre les caractères non-latins sur les lecteurs basés sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
@@ -10,7 +10,7 @@
       <creator>Michael Herger</creator>
       <category>information</category>
       <link>https://github.com/LMS-Community/plugin-NonLatinForSBClassic</link>
-      <url>https://github.com/LMS-Community/plugin-NonLatinForSBClassic/releases/download/1.0.0/NonLatinForSBClassic.zip</url>
+      <url>https://github.com/LMS-Community/plugin-NonLatinForSBClassic/releases/download/1.1.0/NonLatinForSBClassic.zip</url>
       <title lang="DE">Nicht-lateinische Texte auf der Squeezebox Classic Familie darstellen</title>
       <title lang="EN">Render non-latin text on the Squeezebox Classic family</title>
       <title lang="FR">Rendre du texte non-latin sur la famille Squeezebox Classic</title>
