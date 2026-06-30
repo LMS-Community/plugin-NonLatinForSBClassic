@@ -18,7 +18,7 @@ jobs:
 
       - name: Zip Repository
         id: zip
-        run: zip NonLatinForSBClassic -r *.pm install.xml strings.txt *.ttf README.md License.txt
+        run: zip NonLatinForSBClassic -r *.pm install.xml strings.txt fonts.conf *.ttf README.md License.txt
 
       - name: Update SHA and Version in repo.xml
         id: tag
